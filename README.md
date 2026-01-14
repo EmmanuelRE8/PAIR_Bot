@@ -1,7 +1,7 @@
 # Emmanuel's P.A.I.R. (Personal AI Résumé) 🤖
 
 **PAIR** (*Personal AI Résumé*) is an interactive, AI-powered version of my professional journey.  
-It combines a dynamic portfolio with conversational intelligence — allowing recruiters and peers  
+It combines a dynamic portfolio with conversational intelligence, allowing recruiters and peers  
 to explore my projects, skills, and impact through natural dialogue.
 
 ---
@@ -13,7 +13,7 @@ to explore my projects, skills, and impact through natural dialogue.
 
 ### 🎯 Purpose
 
-PAIR goes beyond a static CV — it demonstrates how Business Intelligence, Data, and AI  
+PAIR goes beyond a static CV, it demonstrates how Business Intelligence, Data, and AI  
 can merge into a single interactive storytelling experience.
 
 Instead of reading bullet points, visitors can:
